@@ -6,8 +6,7 @@ process:
     twig: true
 never_cache_twig: true
 ---
-
-A search box is added to the top of the dropdown automatically for select boxes where only a single option can be selected. The behavior and appearance of the search box can be easily customized with Select2.
+The behavior and appearance of the search box can be easily customized with Select2.
 
 ## Customizing how results are matched
 
